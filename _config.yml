@@ -9,7 +9,7 @@ subtitle: GitHub를 이용한 개인 첫 블로그
 description: 개인 공간
 author: ssc0421
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: ko
 date_format: '%Y-%m-%d'
 
 # URL
@@ -67,7 +67,7 @@ feed:
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
 plugins:
- - jemoji
+# - jemoji
  - jekyll-sitemap
  - jekyll-feed
 
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/images/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "shinseungchul, ssc, sinsc"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -140,6 +140,7 @@ menu_icons:
   schedule: calendar
   tags: tags
   archives: archive
+  search : search
   sitemap: sitemap
   commonweal: heartbeat
 
@@ -213,9 +214,10 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
-
+social:
+  GitHub: https://sinsc0421.github.io
+  Twitter: https://sinsc0421.github.io
+  Weibo : https://sinsc0421.github.io/
 
 # Social Links Icons
 # Icon Mapping:
@@ -229,7 +231,6 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
-
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
@@ -256,7 +257,7 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
+  position: right
   #position: right
 
   # Sidebar Display, available value:
