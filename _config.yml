@@ -117,7 +117,7 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  홈: /
+  home: /
   categories: /categories/
   about: /about/
   archives: /archives/
@@ -134,7 +134,7 @@ menu:
 menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
-  홈: home
+  home: home
   about: user
   categories: th
   schedule: calendar
