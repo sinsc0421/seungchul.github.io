@@ -13,9 +13,11 @@ author : ssc
 
 ## IOS
 
-### 1) [https://itunesconnect.apple.com/login](https://itunesconnect.apple.com/login)
+### 1) [애플 > 아이튠즈 커넷트 사이트 접속](https://itunesconnect.apple.com/login)
 
-- 배포된 앱의 개발자 계정 로그인
+- 배포된 앱의 개발자 계정 로그인 필요
+
+- 개발자 계정 등록비는 129,000원 입니다. (1년마다 갱신 必)
 
 ### 2) 메인대시보드 > [판매 및 추세] 메뉴 클릭
 
