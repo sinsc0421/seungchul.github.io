@@ -31,7 +31,6 @@ netsh wlan set hostednetwork mode=allow ssid=와이파이 이름 key=비밀번�
 
 ex)
 netsh wlan set hostednetwork mode=allow ssid=pcwifi key=12345678
-
 ```
 
 이름 : 영문  // 비밀번호 : 8자리 이상
