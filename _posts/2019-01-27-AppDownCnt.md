@@ -13,7 +13,7 @@ author : ssc
 
 ## 1. IOS
 
-### 1) [[애플 > 아이튠즈 커넷트 사이트 접속]](https://itunesconnect.apple.com/login)
+### 1) [애플 > 아이튠즈 커넷트 사이트 접속](https://itunesconnect.apple.com/login)
 
 - 배포된 앱의 개발자 계정 로그인 필요
 
@@ -31,7 +31,7 @@ author : ssc
 
 ## 2. Android
 
-### 1) [[구글 개발자 콘솔 사이트 접속]](https://play.google.com/apps/publish)
+### 1) [구글 개발자 콘솔 사이트 접속](https://play.google.com/apps/publish)
 
 - 배포된 앱 개발자 계정 로그인
 
