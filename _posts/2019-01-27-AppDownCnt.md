@@ -11,7 +11,7 @@ author : ssc
 
 ---
 
-## IOS
+## 1. IOS
 
 ### 1) [[애플 > 아이튠즈 커넷트 사이트 접속]](https://itunesconnect.apple.com/login)
 
@@ -29,7 +29,7 @@ author : ssc
 
 ※ 다운로드 기준은 위 이미지와 같습니다.
 
-## Android
+## 2. Android
 
 ### 1) [[구글 개발자 콘솔 사이트 접속]](https://play.google.com/apps/publish)
 
