@@ -13,7 +13,7 @@ author : ssc
 
 ## IOS
 
-### 1) [https://itunesconnect.apple.com/login](https://itunesconnect.apple.com/login) 접속
+### 1) [https://itunesconnect.apple.com/login](https://itunesconnect.apple.com/login)
 
 - 배포된 앱의 개발자 계정 로그인
 
@@ -29,12 +29,17 @@ author : ssc
 
 ## Android
 
-### 1) [https://play.google.com/apps/publish](https://play.google.com/apps/publish) 접속
+### 1) [구글 개발자 콘솔 사이트 접속](https://play.google.com/apps/publish)
 
 - 배포된 앱 개발자 계정 로그인
 
 ### 2) 원하는 앱 클릭
 
 
-### 3) 대시보드 통계 확인
+### 3) 대시보드 확인
+
+![googleDown](/assets/images/post/googleDown.PNG)
+
+※ 통계 탭이 있어 원하는 다른 정보도 얻을 수 있습니다.
+
 
