@@ -57,7 +57,8 @@ $selection-color              : white;
 
 
 @function get_font_family($config) {
-  $custom_family : jekyll-config('font.' + $config + '.family');
+  //$custom_family : jekyll-config('font.' + $config + '.family');
+  $custom_family : 'Jeju Gothic';
   @return if(type-of($custom_family) == 'string', $custom_family, null);
 }
 
@@ -91,7 +92,7 @@ $font-weight-bolder       : 700;
 
 
 // Font size
-$font-size-base           : 14px;
+$font-size-base           : 17px;
 $font-size-small          : $font-size-base - 2px;
 $font-size-smaller        : $font-size-base - 4px;
 $font-size-large          : $font-size-base + 2px;
