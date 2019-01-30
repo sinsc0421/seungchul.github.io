@@ -63,3 +63,4 @@ ex) *.jsp, *.log 등
 ##3. 검색결과
 
 ![findLog](/assets/images/post/findLog.PNG)
+
